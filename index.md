@@ -1,14 +1,14 @@
 ---
+title: 'petrichor'
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+### 个人技术总结Blog
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+测试搜索
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 ## Why Jekyll with GitBook
 
@@ -22,8 +22,6 @@ This theme takes style definition out of generated GitBook site and provided the
 for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
 to [Github Pages][1] without generating and uploading HTML bundle every time when there are
 changes to the original repo.
-
-## How to Get Started
 
 This theme can be used just as other [Jekyll themes][1].
 
