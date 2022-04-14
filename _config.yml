@@ -1,5 +1,5 @@
 # Configurations
-title:            锦麟的个人博客
+title:            个人博客
 longtitle:        锦麟的个人博客
 author:           petrichor
 email:            talent2016@163.com
@@ -35,7 +35,7 @@ syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:        /:categories-:year/:title:output_ext
 
 exclude:
   - _drafts

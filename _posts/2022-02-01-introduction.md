@@ -1,7 +1,6 @@
 ---
 title: 序
 author: petrichor
-date: 2022-02-07
 category: introduction
 layout: post
 ---
