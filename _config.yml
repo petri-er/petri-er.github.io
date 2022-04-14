@@ -1,16 +1,16 @@
 # Configurations
-title:            Petrichor Personally Book
-longtitle:        Jekyll Gitbook
+title:            锦麟的个人博客
+longtitle:        锦麟的个人博客
 author:           petrichor
-email:            sighingnow@gmail.com
+email:            talent2016@163.com
 description: >
-  Build Jekyll site with the GitBook style.
+
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://petri-er.github.io'
+baseurl:          ''
 rss:              RSS
 
 toc:

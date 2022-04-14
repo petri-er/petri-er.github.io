@@ -1,16 +1,36 @@
 ---
-title: 'petrichor'
+title: '锦麟'
 layout: home
 ---
 
-### 个人技术总结Blog
+> 锦麟生祥瑞
 
-## Demo
+## 2022年4月
 
-测试搜索
+工作5年，需要总结一下自己的知识体系，古话说得好，只要行动起来，什么时候都不会为时已晚。
 
+曾几何时，火遍大江南北的最强大脑播出流行的时候，我也一时火热，去了解了一下记忆宫殿，最强大脑也是从一砖一瓦堆砌起来。
 
-## Why Jekyll with GitBook
+作为一个技术工作者，自己的工具，一刀一枪更需要自己去摸索掌控好。
+
+从现在开始，在这堆砌好自己的技术金字塔。
+
+## 长路漫漫
+
+> 路漫漫其修远兮，吾将上下而求索
+
+```javascript
+// 获取明天的现在时间
+setTimeout(()=>{
+    console.log(new Date());
+}, 1000 * 60 * 60 * 24);
+```
+
+- [x]  整理javascript知识点
+
+- [ ]  123
+
+- [x]  123
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
